@@ -1,13 +1,13 @@
-## Hi there 👋
+## Hi I am Amina
 
 Software Engineering Student at **FAST NUCES Lahore** 
 
-## 👩‍💻Languages and Technologies
+## Languages and Technologies
 - C++, Java, Python, JavaScript
 - SQL, MySQL, MongoDB
 - JavaSwing, JavaFX, JUnit
 - Web Development MERN Stack
   
-## 🌱 Currenlty Exploring
+## Currenlty Exploring
 - Machine Learning
 - Generative AI
