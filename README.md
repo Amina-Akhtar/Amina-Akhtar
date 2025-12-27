@@ -6,8 +6,8 @@ Software Engineering Student at **FAST NUCES Lahore**
 - C++, Java, Python, JavaScript
 - SQL, MySQL, MongoDB
 - JavaSwing, JavaFX, JUnit
-- Web Development MERN Stack
+- Web Development using MERN Stack
   
 ## Currenlty Exploring
-- Machine Learning
+- Deep Learning
 - Generative AI
