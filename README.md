@@ -9,5 +9,5 @@ Software Engineering Student at **FAST NUCES Lahore**
 - Web Development using MERN Stack
   
 ## Currenlty Exploring
-- Deep Learning
+- Machine Learning
 - Generative AI
