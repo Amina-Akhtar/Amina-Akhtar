@@ -1,4 +1,4 @@
-## Hi I am Amina
+## Hi, I am Amina.
 
 Software Engineering Student at **FAST NUCES Lahore** 
 
@@ -6,8 +6,8 @@ Software Engineering Student at **FAST NUCES Lahore**
 - C++, Java, Python, JavaScript, TypeScript
 - SQL Server, MySQL, MongoDB
 - RESTAPI, FASTAPI
-- Desktop Development (JavaSwing, JavaFX, JUnit)
-- Web Development (MERN Stack)
+- JavaSwing, JavaFX, JUnit
+- Web Development using MERN Stack
 - Machine Learning
   
 ## Areas of Interest
