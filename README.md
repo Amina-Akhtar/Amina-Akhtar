@@ -5,7 +5,7 @@ Software Engineering Student at **FAST NUCES Lahore**
 ## Languages and Technologies
 - C++, Java, Python, JavaScript, TypeScript
 - SQL Server, MySQL, MongoDB
-- RESTAPI, FASTAPI
+- RESTAPI, FastAPI
 - JavaSwing, JavaFX, JUnit
 - Web Development using MERN Stack
 - Machine Learning
