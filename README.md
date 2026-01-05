@@ -12,4 +12,4 @@ Software Engineering Student at **FAST NUCES Lahore**
   
 ## Areas of Interest
 - Generative AI
-- Backend Systems
+- Backend Developmnt
